@@ -1,0 +1,31 @@
+//bots
+//Xpos		Ypos	    bottype 	    botname
+SpawnBotX0=660&SpawnBotY0=150&BotType0=HunterUzi&BotName0=Jurie_Els&
+SpawnBotX1=320&SpawnBotY1=1720&BotType1=Player&BotName1=Kurt_Darren&
+SpawnBotX2=750&SpawnBotY2=550&BotType2=GuardPistol&BotName2=Patricia_Lewis&
+SpawnBotX3=2550&SpawnBotY3=350&BotType3=GuardUzi&BotName3=Arno_Jordaan&
+SpawnBotX4=1300&SpawnBotY4=1350&BotType4=Sniper&BotName4=Nicholis_Louw&
+SpawnBotX5=2550&SpawnBotY5=1150&BotType5=HunterRocket&BotName5=Steve_Hofmeyer&
+
+
+//health
+xpos       ypos
+SpawnHealthX0=130&SpawnHealthY0=540&
+
+//ammo
+xpos       ypos
+SpawnAmmoX0=1600&SpawnAmmoY0=330&
+
+
+//the format should ALWAYS be like the level text files. all in one line,no spaces
+
+//levels have a preset amount of bots,health and ammo that can be added. just check that you add at least that
+//amount for a level
+
+//bots have set type as well. they can be ,if they're not the game will crash:
+//HunterUzi
+//HunterSniper
+//HunterRocket
+//Sniper
+//GuardUzi
+//GuardPistol
